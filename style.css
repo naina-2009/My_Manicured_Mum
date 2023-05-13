@@ -1,0 +1,54 @@
+body
+{
+    background: linear-gradient(#FFC300, #FF9700, #FF0064);
+    margin: 0;
+    padding-top: 200px;
+}
+
+.profile
+{
+    border-radius: 50%;
+}
+
+h1
+{
+    font-family: Architects Daughter;
+    font-size: 50px;
+}
+
+#name
+{
+    font-family: Inspiration !important;
+    font-size: 75px;
+}
+
+.paragraph
+{
+    font-family: Tangerine;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+img
+{
+    border-radius: 20px;
+    height: 300px;
+}
+
+#contact_img, #email
+{
+    border-radius: 25px;
+    height: 60px;
+}
+
+#dish
+{
+    font-family: Tangerine;
+    font-size: 45px;
+    color: white;
+}
+
+#contact
+{
+    font-family: Architects Daughter;
+}
